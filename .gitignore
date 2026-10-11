@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+*.sql.gz
+*.sql.bak
+node_modules/
+vendor/
+.vscode/
+.idea/
+mysql_data/
+grafana_data/
+loki_data/
